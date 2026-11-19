@@ -1,0 +1,1 @@
+start "" /b powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File "%~dp0tool.ps1"
